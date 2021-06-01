@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Evernote Project",
+      "body": "Write down main deliverables. Choose a stretch goal. Finish project by Thursday."
+    },
+    {
+      "id": 2,
+      "title": "React Review",
+      "body": "Watch lecture videos on Hogwarts and Bookliker on Monday."
+    },
+    {
+      "id": 3,
+      "title": "React Router",
+      "body": "Watch lecture video. Do more research on react router."
+    },
+    {
+      "id": 4,
+      "title": "React Hooks",
+      "body": "Watch lecture video. Try to change old code by implementing hooks."
+    }
+  ]
+}
